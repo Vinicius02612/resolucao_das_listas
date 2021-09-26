@@ -29,7 +29,7 @@ int main(){
         scanf("%s", &opc);
 
     }while(opc == 'c');
-    printf("Menor Numero = %i \n", MaiorNumero);
+    printf("Maior Numero = %i \n", MaiorNumero);
     printf("Menor Numero = %i \n", MenorNumero);
     printf("Produtos dos Numeros = %i", produto);
 
